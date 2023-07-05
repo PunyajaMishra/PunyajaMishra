@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PunyajaMishra
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently studying Computer Science with Specialization in Data Analysis and Software Engineering
+- 👀 I’m interested in Data Analysis and Business Analysis
+- 🌱 Trent University Graduate - Computer Science with Specialization in Data Analysis and Software Engineering 
 <!-- - 💞️ I’m looking to collaborate on --->
 
 
